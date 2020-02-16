@@ -1,5 +1,5 @@
 class Song 
   
-  attr_accessor :Song 
+  attr_accessor :Title  
   
 end 
